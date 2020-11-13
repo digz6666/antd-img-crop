@@ -1,6 +1,6 @@
 {
   "name": "@astvision/antd-img-crop",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "An image cropper for Ant Design Upload",
   "keywords": [
     "react",
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.1",
-    "@astvision/react-easy-crop": "^0.0.1"
+    "@astvision/react-easy-crop": "^1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
