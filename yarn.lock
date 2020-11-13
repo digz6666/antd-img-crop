@@ -49,6 +49,13 @@
     lodash "^4.17.15"
     resize-observer-polyfill "^1.5.0"
 
+"@astvision/react-easy-crop@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@astvision/react-easy-crop/-/react-easy-crop-1.0.2.tgz#53945fbc32a6d7f8e672d2fd3026a8c63c209629"
+  integrity sha512-R0e7h6d89+ahgoyYhyLhTCSuHZXv0gqYy4ErqNznpUUQXzjlXUDnA4GqFJYWrBOv5moXAT5C91x8K97lbQZaUQ==
+  dependencies:
+    tslib "2.0.1"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.10.4.tgz#168da1a36e90da68ae8d49c0f1b48c7c6249213a"
@@ -2972,13 +2979,6 @@ react-dom@^17.0.1:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     scheduler "^0.20.1"
-
-react-easy-crop@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-easy-crop/-/react-easy-crop-3.3.0.tgz#35b4cee63dbdfb0d784c06b52209f77c2ea450ff"
-  integrity sha512-3udl/ZlyHkCldtNpY0XdNNym6gugRStII7j93KXaZyVACfiMvb5WQmieGnkGIffItNQnOGQ44X1koe165rUPNQ==
-  dependencies:
-    tslib "2.0.1"
 
 react-is@^16.12.0, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
