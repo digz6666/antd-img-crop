@@ -1,5 +1,5 @@
 {
-  "name": "antd-img-crop",
+  "name": "@astvision/antd-img-crop-ssr",
   "version": "3.13.2",
   "description": "An image cropper for Ant Design Upload",
   "keywords": [
@@ -14,8 +14,13 @@
   "license": "MIT",
   "author": "nanxiaobei <nanxiaobei@gmail.com> (https://github.com/nanxiaobei)",
   "homepage": "https://github.com/nanxiaobei/antd-img-crop",
-  "repository": "github:nanxiaobei/antd-img-crop",
-  "bugs": "https://github.com/nanxiaobei/antd-img-crop/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digz6666/antd-img-crop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanxiaobei/antd-img-crop/issues"
+  },
   "main": "dist/antd-img-crop.cjs.js",
   "module": "dist/antd-img-crop.esm.js",
   "types": "index.d.ts",
