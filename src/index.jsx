@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useMemo, useRef, forwardRef } from 'react';
 import t from 'prop-types';
-import Cropper from 'react-easy-crop';
+import Cropper from '@astvision/react-easy-crop';
 import LocaleReceiver from 'antd/es/locale-provider/LocaleReceiver';
 import Modal from 'antd/es/modal';
 import Slider from 'antd/es/slider';

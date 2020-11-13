@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { CropperProps } from 'react-easy-crop';
+import { CropperProps } from '@astvision/react-easy-crop';
 
 export interface ImgCropProps {
   aspect?: number;
